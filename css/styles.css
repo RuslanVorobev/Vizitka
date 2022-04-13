@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+}
+  
+.header {
+    position: sticky;
+    top: 0;
+    background-color: bisque;
+    padding: 20px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+  
+.header-link {
+    margin: 0 10px;
+}
+
+.photo {
+    margin: 10mm;
+}
+
+h1 {
+      margin-left: 20mm;
+}
+
+h2 {
+    margin-left: 6mm;
+}
